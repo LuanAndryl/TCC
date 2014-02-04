@@ -4,6 +4,8 @@
  * mude as informações conforme estiver o seu banco de
  * dados, caso nao esteje usando MySql, contactar o admistrador
  * do sistema :D 
+ * É necessario a criação de um banco de dados vazio no MySql para que o
+ * instalador se auto configure corretamente 
  */
 /*
  * O servidor que a aplicação ira se conectar 
