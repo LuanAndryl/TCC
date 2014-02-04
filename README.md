@@ -10,10 +10,14 @@ Secretaria acadêmica da ETEC Jacinto Ferreira de Sá de Ourinhos SP, o sistema 
 automatizar a chamada por meio do uso de cartões com código de barras.
 
 O sistema é dividido em 4 grupos de usuários:
- Administradores = Gerenciam todo o sistema, com plenos poderes
- Funcionários   = Gerenciam o sistema;
- Professores    = realizam a 'chamada' dos alunos;
- Aluno          = verifica seu histórico de frequência; 
+
+Administradores = Gerenciam todo o sistema, com plenos poderes
+
+Funcionários    = Gerenciam o sistema;
+
+Professores     = realizam a 'chamada' dos alunos;
+
+Aluno           = verifica seu histórico de frequência; 
 
 -desenvolvido em PHP, baseando o estilo no Bootstrap e as validações todas feitas com JQuery;
 -tentamos simular como um framework MVC funciona, sim eu sei que tem muitos buracos e muita coisa
