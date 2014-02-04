@@ -1,0 +1,33 @@
+<?php
+/* Ola :D
+ * Este é arquivo de configuração do sistema
+ * mude as informações conforme estiver o seu banco de
+ * dados, caso nao esteje usando MySql, contactar o admistrador
+ * do sistema :D 
+ */
+/*
+ * O servidor que a aplicação ira se conectar 
+ * padrao localhost
+ */
+define('SERVER', "");
+/*
+ * O nome do banco de dados
+ * padrao bd_sogfe
+ */
+define('DBNAME', "");
+/*
+ *Nome do usurio no banco de dados 
+ * Padrao root 
+ */
+define('USER', "");
+/*
+ * senha do usuario do banco de dados
+ * padrao vazio;
+ */
+define('PASS', "101520");
+/*
+ * Apos mudar as configurações, salve o arquivo e tente novamente 
+ */
+
+
+?>
